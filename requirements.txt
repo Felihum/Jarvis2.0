@@ -1,0 +1,9 @@
+chromadb
+sentence_transformers
+tqdm
+Flask
+PyPDF2
+ollama
+flask-cors
+openai
+google-genai

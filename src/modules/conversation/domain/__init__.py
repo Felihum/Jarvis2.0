@@ -1,0 +1,4 @@
+from src.modules.conversation.domain.use_cases import AnalyseIntentionUseCase
+from src.modules.conversation.domain.models.conversation_models import ConversationMessage, ConversationRoleEnum
+from src.modules.conversation.domain.models.intention_models import IntentionResponse
+from src.modules.conversation.domain.contracts.conversation_gateway import ConversationGateway
